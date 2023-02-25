@@ -1,8 +1,6 @@
 # JournalApp
 It's a Journal application by using Full stack technology 
 
-![image](https://github.com/vchaitanya7/JournalApp/blob/main/Journal.png)
-
 ## Tech Stack
 
 **Client:** React, React-Bootstrap
